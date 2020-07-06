@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question_name">
+        <item>Which device is an input device?</item>
+        <item>Who is the father of modern electronics?</item>
+        <item>Which is the smallest unit of digital memory?</item>
+        <item>The ability to take many forms is called ?</item>
+        <item>What is the brain of the computer called?</item>
+
+    </string-array>
+
+    <string-array name="option_a">
+
+        <item>Monitor</item>
+        <item>Fleming</item>
+        <item>Terabyte</item>
+        <item>Classes</item>
+        <item>CPU</item>
+
+    </string-array>
+
+    <string-array name="option_b">
+
+        <item>Printer</item>
+        <item>Graham Bell</item>
+        <item>Bit</item>
+        <item>Inheritance</item>
+        <item>RAM</item>
+
+    </string-array>
+
+    <string-array name="option_c">
+
+        <item>Mouse</item>
+        <item>Albert Einstien</item>
+        <item>Word</item>
+        <item>Objects</item>
+        <item>GPU</item>
+
+    </string-array>
+
+    <string-array name="option_d">
+
+        <item>Speaker</item>
+        <item>Isaac Newton</item>
+        <item>Byte</item>
+        <item>Polymorphism</item>
+        <item>SSD</item>
+
+    </string-array>
+
+    <string-array name="answer">
+
+        <item>Mouse</item>
+        <item>Fleming</item>
+        <item>Bit</item>
+        <item>Polymorphism</item>
+        <item>CPU</item>
+
+    </string-array>
+
+
+
+</resources>
